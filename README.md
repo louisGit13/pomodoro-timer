@@ -75,13 +75,13 @@ Thinkful.
 
 ### To-do
 
-- [ ] All props are treated as read-only.
-- [ ] Audio plays when the focus timer expires.
-- [ ] Audio plays when the break timer expires.
-- [ ] All state is updated using callbacks to avoid race conditions.
-- [ ] There are at least three components.
-- [ ] Each component has a single responsibility.
-- [ ] The main Pomodoro is free of any conditional display logic.
+- [x] All props are treated as read-only.
+- [x] Audio plays when the focus timer expires.
+- [x] Audio plays when the break timer expires.
+- [x] All state is updated using callbacks to avoid race conditions.
+- [x] There are at least three components.
+- [x] Each component has a single responsibility.
+- [x] The main Pomodoro is free of any conditional display logic.
 - [x] Done!
 
 ### License
