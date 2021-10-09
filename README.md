@@ -22,7 +22,6 @@ The Pomodoro technique is a time-management method that was developed in the lat
 ### Built with
 
 - React
-- Bootstrap 4
 
 ## Getting started
 
